@@ -19,7 +19,7 @@ public class Constructor
   public static void main(String[] args)
   {
     @SuppressWarnings("unused")
-    Student vanitha=new Student();
+    Student monika=new Student();
     @SuppressWarnings("unused")
     String name;
     double percentage;
@@ -28,6 +28,6 @@ public class Constructor
     name=input.nextLine();
     System.out.print("Enter your semPercentage : ");
     percentage=input.nextDouble();
-    Student vanitha01=new Student(name,percentage);
+    Student monika01=new Student(name,percentage);
   }
 }
