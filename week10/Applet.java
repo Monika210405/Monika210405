@@ -2,7 +2,7 @@ import java.awt.*;
 import java.applet.*;
 
 /*
-<applet code="Demo.class" width="1000" height="1000"> </applet>
+<applet code="Applet.class" width="1000" height="1000"> </applet>
 */
 
 @SuppressWarnings("removal")
